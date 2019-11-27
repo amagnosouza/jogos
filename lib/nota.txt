@@ -1,0 +1,1 @@
+Esta pasta contem arquivos de classes que são usados no projeto.
